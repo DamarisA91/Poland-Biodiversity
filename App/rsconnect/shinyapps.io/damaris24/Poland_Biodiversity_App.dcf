@@ -1,0 +1,12 @@
+name: Poland_Biodiversity_App
+title: App
+username: damaris24
+account: damaris24
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12287438
+bundleId: 8835764
+url: https://damaris24.shinyapps.io/Poland_Biodiversity_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
