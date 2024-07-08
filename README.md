@@ -2,7 +2,7 @@
 
 Web application: https://damaris24.shinyapps.io/Poland_Biodiversity_App/
 
-This application was developed with the objective of visualizing the records of sightings of different species of animals, plants and fungi, as well as the frequency and date of occurrence from 1984 to 2015. It was built from the "biodiversity" database, using only data from Poland.
+This application was developed with the objective of visualizing the records of sightings of different species of animals, plants and fungi, as well as the frequency and date of occurrence from 1984 to 2020. It was built from the "biodiversity" database, using only data from Poland.
 
 The "App" folder contains all the elements of the application, open app.R and run the application.
 
